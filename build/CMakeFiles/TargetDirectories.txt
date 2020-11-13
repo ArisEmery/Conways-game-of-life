@@ -1,0 +1,4 @@
+/Users/arisemery/cs3460/conway/conway/build/CMakeFiles/rebuild_cache.dir
+/Users/arisemery/cs3460/conway/conway/build/CMakeFiles/edit_cache.dir
+/Users/arisemery/cs3460/conway/conway/build/CMakeFiles/ClangFormat.dir
+/Users/arisemery/cs3460/conway/conway/build/CMakeFiles/ConwaysLife.dir
